@@ -53,3 +53,14 @@
   height: 14px;
   color: currentColor;
 }
+
+.notFound {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  font-size: 96px;
+  font-weight: 700;
+  color: #ff6c00;
+  text-align: center;
+}
